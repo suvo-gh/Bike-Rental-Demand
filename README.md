@@ -12,17 +12,15 @@ The objective of this Case is to Predication of bike rental count on daily based
     2. Attributes distributions and trends
        * Monthly distribution of counts
        * Yearly distribution of counts
-       * Outliers analysis
-    3. Normality test
-    4. Correlation matrix 
-    5. Split the dataset into train and test dataset
-    6. Encoding the categorical features
-    7. Modelling the training dataset
+    3. Correlation matrix 
+    4. Split the dataset into train and test dataset
+    5. Encoding the categorical features
+    6. Modelling the training dataset
        * Random Forest Model
-    9. Model performance on test dataset
+    7. Model performance on test dataset
        * Random Forest Prediction
-    10. Model Evaluation Metrics
+    8. Model Evaluation Metrics
        * R-squared score
        * Root mean square error
        * Mean absolute error
-    11. Choosing best model for predicting bike rental count
+    9. Choosing best model for predicting bike rental count
